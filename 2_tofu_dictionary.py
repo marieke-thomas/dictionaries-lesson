@@ -1,4 +1,4 @@
-sexydoggy32 = {
+cutedoggy32 = {
   "first_name":"Tofu",
   "last_name":"Thomas", 
   "age":7, 
@@ -9,4 +9,4 @@ sexydoggy32 = {
   "favorite activity":"long walks in the park"
 }
 
-print(sexydoggy32["age"])
+print(cutedoggy32["age"])
